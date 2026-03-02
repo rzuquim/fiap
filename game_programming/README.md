@@ -4,7 +4,7 @@ Rodrigo Cruz
 
 ## Empresas citadas
 
-- "qbite" (distrubuidora)
+- [qubyteinteractive](qubyteinterawctive.com)
 
 ## Publisher vs Dev
 
@@ -18,8 +18,6 @@ Baseline de mercado:
 
 ## Indicações
 
-Azura's Wrath
-Blue Dragon => Akira Toriama
 Soma
 Detroid: Become Human => mesmo do Heavy Rain
 Exposição Itaú Cultural

@@ -1,7 +1,6 @@
 # Ambiente
 
 - Unit
-
   - Licença => Personal
   - Versão => 6000.3.6f1 @ 29/01/2026 (https://unity.com/releases/editor/archive)
   - Template => Built-in 2D render pipeline
