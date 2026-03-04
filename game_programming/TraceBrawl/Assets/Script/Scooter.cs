@@ -1,16 +1,17 @@
 using UnityEngine;
 
-public class Scooter : MonoBehaviour
+public partial class Scooter : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        
+        var moveDelta = FrameMove();
+        var steerDelta = SteerFromInput();
+
+        if (steerDelta != 0.0f)
+        {
+            transform.Rotate(0, 0, steerDelta);
+        }
+
+        transform.Translate(0, moveDelta, 0);
     }
 }
