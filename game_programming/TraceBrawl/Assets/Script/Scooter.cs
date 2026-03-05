@@ -1,7 +1,11 @@
-using UnityEngine;
-
 public partial class Scooter : MonoBehaviour
 {
+    void Awake()
+    {
+        SetupTraceRenderer();
+    }
+
+    // TODO: check FixUpdate use (network ready)
     void Update()
     {
         var moveDelta = FrameMove();
@@ -13,5 +17,7 @@ public partial class Scooter : MonoBehaviour
         }
 
         transform.Translate(0, moveDelta, 0);
+
+        PaintTracePoint();
     }
 }
