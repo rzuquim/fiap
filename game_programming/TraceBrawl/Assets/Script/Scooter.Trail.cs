@@ -15,10 +15,9 @@ public partial class Scooter
     private void PaintTracePoint()
     {
         var pos = transform.position;
-        if (trail.Count == 0 ||
-            Vector3.Distance(pos, lastPoint) >= MIN_POINT_DISTANCE)
+        if (trail.Count == 0 || Vector3.Distance(pos, lastPoint) >= MIN_POINT_DISTANCE)
         {
-            AddPoint(pos);
+            // AddPoint(pos);
         }
         // throw new NotImplementedException();
     }
