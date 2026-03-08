@@ -10,7 +10,6 @@ Imagem e colocar no Figma
 
 1. Entrevista
 2. Ideação
-3.
 
 Empatia, o que é relevante mostrar?
 
@@ -48,9 +47,3 @@ Desde de pequeno teve curiosidade, videos de minecraft (criaçao e mapas) => wor
 Gosta de jogos de terror
 
 Dois projetos no papel
-
-# Prompt
-
-Generate the drawing of a character for the prototype of a horror game. 
-Draw on a sketchy style - like excalidraw.
-He uses glasses and is skinny
