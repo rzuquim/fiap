@@ -1,4 +1,4 @@
-public partial class Game : MonoBehaviour
+public partial class Game
 {
     // TODO: start in Menu
     GameState state = GameState.InGame;

@@ -1,4 +1,4 @@
-public partial class Game : MonoBehaviour
+public partial class Game
 {
     public void GameOver()
     {
