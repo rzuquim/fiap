@@ -41,3 +41,7 @@ O GD é a base, a primeira atividade:
 - economia / balanceamento: números estão equilibrados
 
 **TUDO** no objetivo da experiência
+
+# Leitura
+
+[O problema da porta](https://lizengland.com/blog/the-door-problem/)
