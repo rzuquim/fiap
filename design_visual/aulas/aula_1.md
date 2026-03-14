@@ -6,8 +6,8 @@ Minha definição:
 
 Salen & Zimmerman:
 
-> Jogo é um sistema em que os jogadores se envolvem em um conflito artificial, definido por regras, que resulta em um
-> produto quantificável.
+d Jogo é um sistema em que os jogadores se envolvem em um conflito artificial, definido por regras, que resulta em um
+oughuyup,/./qWi> produto quantificável.
 
 Juul: ? Um jogo é um sistema formal baseado em regras com resultados variáveis e quantificáveis, onde diferentes
 resultados são atribuidos valores diferentes, o jogador exerve um esforço ....
