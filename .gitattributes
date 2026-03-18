@@ -30,3 +30,4 @@
 *.eps filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.PNG filter=lfs diff=lfs merge=lfs -text
+*.pur filter=lfs diff=lfs merge=lfs -text
